@@ -1,0 +1,4 @@
+Always sync this directory:
+
+/Users/sghosh6/Research_Work/BioSci/HPC/DTRA_project/DTRA_ART/DrugDesignData
+
